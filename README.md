@@ -10,6 +10,7 @@
 
 # 다운받는 곳 : https://play.google.com/store/apps/details?id=com.impact.mycando
 
+# 어플시연영상 : https://www.youtube.com/watch?v=hbEpjtkZI8E&t=30s
 
 # 기획동기
 
